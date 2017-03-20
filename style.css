@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+    background-color: #F0F0F0;
+}
+
+h1 {
+    font-family: "Lobster", "Arial", "Sans Serif";
+    font-size: 48px;
+}
+
+button {
+    border: none;
+    font-size: 24px;
+}
+
+#world {
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    height: 83%;
+}
+
+#reagan {
+    position: absolute;
+    top: 93%;
+    left: 0%;
+    width: 50%;
+    height: 7%;
+    color: #FFFFFF;
+    background-color: #800000;
+}
+#reagan:hover {
+    background-color: #A00000;
+}
+
+#trump {
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    width: 50%;
+    height: 7%;    
+    color: #FFFFFF;
+    background-color: #800000;
+}
+#trump:hover {
+    background-color: #A00000;
+}
